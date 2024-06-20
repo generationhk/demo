@@ -3,3 +3,4 @@
 hello
 bye
 steak
+yakiniku
